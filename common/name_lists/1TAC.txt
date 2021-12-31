@@ -156,21 +156,21 @@
         1tac_members = {
             weight = 40
             full_names = {
-                Abex Age Bear BedPleyar BoinQ braddeerrzzy ChinesePenaut Chris "DD XY" DisCHQ El_pasta Elliott Fingers gamma_gandalph Gurk Harry Harz haxfar Head Hinds HolyFrostFire Ivy Käsmeister Lovvi Luka Mookiwonsta Nixy Plankton PWaubs Rowns Savs Snake Snippers "Stabbie Joe" ThePlunger Toiton Verstanden
+                Abex Age Bear BedPleyar Bezzy BoinQ braddeerrzzy ChinesePenaut Chris "DD XY" DisCHQ El_pasta Elliott Fingers gamma_gandalph Gurk Harry Harz haxfar Head Hinds HolyFrostFire Ivy Käsmeister Lovvi Luka Mookiwonsta Nixy Plankton PWaubs Rowns Savs Snake Snippers "Stabbie Joe" ThePlunger Toiton Verstanden
             }
         }
 
         1tac_allies = {
             weight = 20
             full_names = {
-                Boberro "Commander Archon" Fanatic Feanix Grizzly Haka J3BU5Z Jacob Luk Michaelelele Zach BowlSoldier clueless "Finito/Kendit" Freddo Kestrel LowerBigfoot Quintus Riot Sokka Strenn Teizan
+                Arked Boberro BowlSoldier clueless darkarchon Fanatic Feanix "Finito/Kendit" Freddo Grizzly Haka J3BU5Z Jacob Kestrel LowerBigfoot Luk Michaelelele Quintus Riot Sokka Strenn Teizan
             }
         }
 
         1tac_misc = {
             weight = 5
             full_names = {
-                Arked arnoldas boarnoah greyfox Hootik JackSc0t Pickers Rasmus Stee "Winston [BlaBer]" Flying noggy NoobCanoe Zach
+                arnoldas boarnoah Flying greyfox Hootik JackSc0t Mr.Skippy noggy NoobCanoe Olympuss Pickers Rasmus Stee Winston Zach
             }
         }
     }
