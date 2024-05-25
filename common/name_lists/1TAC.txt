@@ -56,83 +56,93 @@
     }
 
     fleet_names = {
-        sequential_name = "%O% Fleet"
+        sequential_name = ONETAC_FLEET
     }
-    
+
     army_names = {
 
+        generic = {
+            sequential_name = ONETAC_EXPEDITIONARYFORCE
+        }
+
         machine_defense = {
-            sequential_name = "%O% Planetary Guard"
+            sequential_name = ONETAC_PLANETARYGUARD
         }
-        
+
         machine_assault_1 = {
-            sequential_name = "%O% Expeditionary Force"
+            sequential_name = ONETAC_EXPEDITIONARYFORCE
         }
-        
+
         machine_assault_2 = {
-            sequential_name = "%O% Expeditionary Force"
+            sequential_name = ONETAC_EXPEDITIONARYFORCE
         }
-        
+
         machine_assault_3 = {
-            sequential_name = "%O% Expeditionary Force"
+            sequential_name = ONETAC_EXPEDITIONARYFORCE
         }
-    
+
         defense_army = {
-            sequential_name = "%O% Planetary Guard"
+            sequential_name = ONETAC_PLANETARYGUARD
         }
 
         assault_army = {
-            sequential_name = "%O% Expeditionary Force"
+            sequential_name = ONETAC_EXPEDITIONARYFORCE
         }
-        
+
         slave_army = {
-            sequential_name = "%O% Indentured Rifles"
+            sequential_name = ONETAC_INDENTUREDRIFLES
         }
-        
-        clone_army = { 
-            sequential_name = "%O% Clone Army"
+
+        clone_army = {
+            sequential_name = ONETAC_CLONEARMY
         }
-        
+
         undead_army = {
-            sequential_name = "%O% Dread Commando"
+            sequential_name = ONETAC_DREADCOMMANDO
         }
 
         robotic_army = {
-            sequential_name = "%O% Hunter-Killer Group"
+            sequential_name = ONETAC_HUNTERKILLERGROUP
         }
 
         robotic_defense_army = {
-            sequential_name = "%O% Ground Defense Matrix"
+            sequential_name = ONETAC_GROUNDDEFENSEMATRIX
         }
-        
-        psionic_army = { 
-            sequential_name = "%O% Psi Commando"
+
+        psionic_army = {
+            sequential_name = ONETAC_PSICOMMANDO
         }
-        
+
         xenomorph_army = {
-            sequential_name = "%O% Bio-Warfare Division"
+            sequential_name = ONETAC_BIOWARFAREDIVISION
         }
-        
+
         gene_warrior_army = {
-            sequential_name = "%O% Bio-Engineered Squadron"
+            sequential_name = ONETAC_BIOENGINEEREDSQUADRON
         }
 
         occupation_army = {
-            sequential_name = "%O% Garrison Force"
+            sequential_name = ONETAC_GARRISONFORCE
+        }
+
+        individual_machine_occupation_army = {
+            sequential_name = ONETAC_GARRISONFORCE
         }
 
         robotic_occupation_army = {
-            sequential_name = "%O% Mechanized Garrison"
+            sequential_name = ONETAC_MECHANIZEDGARRISON
         }
 
         primitive_army = {
-            sequential_name = "Primitive Army %C%"
+            sequential_name = ONETAC_PRIMITIVEARMY
         }
+
         industrial_army = {
-            sequential_name = "Industrial Army %C%"
+            sequential_name = ONETAC_INDUSTRIALARMY
         }
+
         postatomic_army = {
-            sequential_name = "Post-Atomic Army %C%"
+            sequential_name = ONETAC_POSTATOMICARMY
         }
     }
 
